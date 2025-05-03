@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I'm Samuele Scortechini
 
-<!--
-**samuelescortechini/samuelescortechini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biomedical and Materials Engineering @ Politecnico di Milano  
+🔬 Focus on: 3D Bioprinting, Neuroengineering, Computational Modeling  
+🛠️ Tools: Python, Matlab, C++, SolidWorks, Abaqus, OpenCOR, 3Dslicer 
 
-Here are some ideas to get you started:
+### 📌 Accademic projects 
+- 🫀 Computational models of cardiac cells
+- 📊 Data analysis in biomedical imaging
+- ⚛️ PET simulation
+- 📱 Telemedicine platform for patient home monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📫 Contact me
+- Email: samuele.scortechini@mail.polimi.it
+- LinkedIn: [linkedin.com/in/samuele-scortechini-12june2001](https://www.linkedin.com/in/samuele-scortechini-12june2001/)
+
+<!-- Optional: GitHub Stats (requires theme configuration)
+![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelescortechini&show_icons=true&theme=default)
 -->
