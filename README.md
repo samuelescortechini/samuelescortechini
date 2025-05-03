@@ -4,7 +4,7 @@
 🔬 Focus on: 3D Bioprinting, Neuroengineering, Computational Modeling  
 🛠️ Tools: Python, Matlab, C++, SolidWorks, Abaqus, OpenCOR, 3Dslicer  
 
-This profile is not just a personal introduction — it's a space where I share selected academic projects and thesis work (both completed and ongoing), to present my skills and interests in a clear and applied way.  
+This profile is not just a personal introduction — it's a space where I share selected academic projects and thesis work, to present my skills and interests in a clear and applied way.  
 It's intended as a technical portfolio for companies and collaborators interested in biomedical innovation.
 
 ---
