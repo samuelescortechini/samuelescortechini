@@ -16,13 +16,16 @@ It's intended as a technical portfolio for companies and collaborators intereste
 
 ---
 
-### 📌 Academic projects  
-- 🦴 Micromechanics: *Double-Scale Homogenization of a Rattan-Based Porous Ceramic for Bone Regeneration*
-- 🫀 Computational Biology of the Heart: *In Silico Evaluation of Astemizole-induced Effects on Cardiomyiocyte Electrophysiology*
-- ⚛️ Technologies for Sensors and Clinical Instrumentation: *PET Detector Geometry Optimization via Geant4 Simulation*  
-- 📱 Medical Informatics: *Telemedicine Platform for Patient Home Monitoring*
-- 🌊 Corrosion Engineering: *Corrosion assessment of a sheet piling pier in Genova*
-- 📊 BEA Project: *From DICOM to Print: Segmentation of the Ankle Joint for Anatomical 3D Models*
+### 📌 Academic Projects  
+The following projects are available in their respective GitHub repositories.  
+Each one includes source code, simulations, or documentation developed during coursework or team projects:
+- 🦴 **Micromechanics**: *Double-Scale Homogenization of a Rattan-Based Porous Ceramic for Bone Regeneration*
+- 🫀 **Computational Biology of the Heart**: *In Silico Evaluation of Astemizole-induced Effects on Cardiomyocyte Electrophysiology*
+- ⚛️ Technologies for Sensors and Clinical Instrumentation **(TSCI)**: *PET Detector Geometry Optimization via Geant4 Simulation*
+- 📱 **Medical Informatics**: *Telemedicine Platform for Patient Home Monitoring*
+- 🌊 **Corrosion Engineering**: *Corrosion assessment of a sheet piling pier in Genova*
+- 📊 **BEA Project**: *From DICOM to Print: Segmentation of the Ankle Joint for Anatomical 3D Models*
+
 
 ---
 
